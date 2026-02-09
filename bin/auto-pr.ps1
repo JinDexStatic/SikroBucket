@@ -1,6 +1,6 @@
 param(
     # overwrite upstream param
-    [String]$upstream = "SikroOrg/SikroBucket:master"
+    [String]$upstream = "JinDexStatic/SikroBucket:master"
 )
 
 if (!$env:SCOOP_HOME) { $env:SCOOP_HOME = Convert-Path (scoop prefix scoop) }
