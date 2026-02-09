@@ -17,6 +17,6 @@
         "regex": "/releases/tag/(?:v|V)?([\\d.]+)"
     },
     "autoupdate": {
-        "url": "https://gh.168364.xyz/github.com/dbgate/dbgate/releases/download/$version/dbgate-windows-latest.zip"
+        "url": "https://gh.168364.xyz/github.com/dbgate/dbgate/releases/download/v$version/dbgate-windows-latest.zip"
     }
 }
