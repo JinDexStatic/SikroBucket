@@ -1,10 +1,10 @@
 {
-    "version": "7.1.9",
+    "version": "7.1.10",
     "description": "DbGate is a web-based database management tool that supports various databases like MySQL, PostgreSQL, SQLite, and more. It provides a user-friendly interface for managing databases, running queries, and visualizing data.",
     "homepage": "https://github.com/dbgate/dbgate",
     "license": "GPL-3.0",
-    "url": "https://github.com/dbgate/dbgate/releases/download/v7.1.9/dbgate-windows-latest.zip",
-    "hash": "8ad05b1a71ae7f7e71f66ba3acaa3615e3f8d79b634b6af5b3de4818cddadf00",
+    "url": "https://github.com/dbgate/dbgate/releases/download/v7.1.10/dbgate-windows-latest.zip",
+    "hash": "db74f829865849f30cf726b710800dcb6337d03224ad2b8939629eb694523864",
     "bin": "DbGate.exe",
     "shortcuts": [
         [
